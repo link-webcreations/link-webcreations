@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there 👋
+
+- 🔭 I’m currently working as Cloud & DevOps Engineer in France.
+- 🌱 I’m currently learning Kubernetes!
+- 🔨 I’m the co-maintainer of an in progress self-hosted cloud solution for home ( 👋 [bigbrozer](https://github.com/bigbrozer/) )...
+
+---
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=link-webcreations&hide_rank=true&custom_title=link-webcreations%20GitHub%20Stats&show_icons=true&cache_seconds=86400&theme=darcula&include_all_commits=true&bg_color=00000000&hide_border=true&rank_icon=github)
+![Top Langs](https://github-readme-streak-stats.herokuapp.com?user=link-webcreations&theme=darcula&hide_border=true&background=00000000)
 
 <!--
 **link-webcreations/link-webcreations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
