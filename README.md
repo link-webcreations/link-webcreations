@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as Cloud & DevOps Engineer in France.
 - 🌱 I’m currently learning Kubernetes!
-- 🔨 I’m the co-maintainer of an in progress self-hosted cloud solution for home ( 👋 [bigbrozer](https://github.com/bigbrozer/) )...
+- 🔨 I’m the co-maintainer of an in progress self-hosted cloud solution for home... (👋 [bigbrozer](https://github.com/bigbrozer/))
 
 ---
 
